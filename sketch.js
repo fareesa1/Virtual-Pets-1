@@ -10,9 +10,9 @@ var foodS;
 
 function preload()
 {
-  dog1 = loadImage ("images/dogimg.png");
+  dog1 = loadImage ("images/dogImg.png");
 
-  dog2 = loadImage ("images/dogimg1.png");
+  dog2 = loadImage ("images/dogImg1.png");
 }
 
 function setup() {
